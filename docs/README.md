@@ -201,7 +201,7 @@ First, we need to remove all the files under the config directory (including dot
 then go to this directory, and run the following command:
 
 ```
-git clone --depth=1 https://github.com/jdhao/nvim-config.git .
+git clone --depth=1 https://github.com/aasutossh/nvim-config.git .
 ```
 
 After that, when we first open nvim, run command `:PackerSync` to install all the plugins.
